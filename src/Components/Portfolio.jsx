@@ -37,10 +37,10 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pig Dice",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A fun game for friends to play. Developed to improve my knowledge of Javascript. Working on implemnting realtime connection with web sockets for realtime online play. Best viewed on desktop 😎",
+    url: "https://pig-game-alpha-nine.vercel.app/",
   },
   {
     title: "My Resume Site",
